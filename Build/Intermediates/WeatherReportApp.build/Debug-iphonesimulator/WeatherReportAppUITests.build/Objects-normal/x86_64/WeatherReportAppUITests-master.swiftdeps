@@ -1,5 +1,0 @@
-version: "Apple Swift version 3.0.2 (swiftlang-800.0.61 clang-800.0.42.1)"
-options: "ee4123e465bdc5df69c7673d4d1d4f12"
-build_time: [567776828, 873608000]
-inputs:
-  "/Users/jayanthshetty/Desktop/new session /WeatherReportApp/WeatherReportAppUITests/WeatherReportAppUITests.swift": [567672413, 0]
